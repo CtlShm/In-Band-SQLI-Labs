@@ -13,3 +13,6 @@
 - Test for injection: `<storeId>1+1</storeId>`.
 - If blocked, highlight the payload -> Right click -> Extensions -> Hackvertor -> Encode -> hex_entities.
 - Final Payload: `1 UNION SELECT username || '~' || password FROM users`.
+
+
+`#CyberSecurity` `#PenetrationTesting` `#SQLi` `#BurpSuite` `#EthicalHacking`
